@@ -1,2 +1,2 @@
 # Oar-segmentation
-breast cancer organ at risk segmentation U-net
+Breast cancer organ at risk segmentation by U-net architecture.
